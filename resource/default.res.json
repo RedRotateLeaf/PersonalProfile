@@ -1,0 +1,120 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,FirstBackground_jpg,SecondBackground_jpg,Leaf_png,Next_png,DM_02_png,DM_03_png,DM_04_png,DM_01_png,M5_mp3,M04_png,M01_png,M02_png,M03_png,mouse_png,M05_png,M06_png,ThirdBackground_jpg,music_png,jump_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/FirstBackground.jpg",
+			"type": "image",
+			"name": "FirstBackground_jpg"
+		},
+		{
+			"url": "assets/SecondBackground.jpg",
+			"type": "image",
+			"name": "SecondBackground_jpg"
+		},
+		{
+			"url": "assets/Leaf.png",
+			"type": "image",
+			"name": "Leaf_png"
+		},
+		{
+			"url": "assets/Next.png",
+			"type": "image",
+			"name": "Next_png"
+		},
+		{
+			"url": "assets/DM_02.png",
+			"type": "image",
+			"name": "DM_02_png"
+		},
+		{
+			"url": "assets/DM_03.png",
+			"type": "image",
+			"name": "DM_03_png"
+		},
+		{
+			"url": "assets/DM_04.png",
+			"type": "image",
+			"name": "DM_04_png"
+		},
+		{
+			"url": "assets/DM_01.png",
+			"type": "image",
+			"name": "DM_01_png"
+		},
+		{
+			"url": "assets/M5.mp3",
+			"type": "sound",
+			"name": "M5_mp3"
+		},
+		{
+			"name": "M04_png",
+			"type": "image",
+			"url": "assets/M04.png"
+		},
+		{
+			"name": "M01_png",
+			"type": "image",
+			"url": "assets/M01.png"
+		},
+		{
+			"name": "M02_png",
+			"type": "image",
+			"url": "assets/M02.png"
+		},
+		{
+			"name": "M03_png",
+			"type": "image",
+			"url": "assets/M03.png"
+		},
+		{
+			"name": "mouse_png",
+			"type": "image",
+			"url": "assets/mouse.png"
+		},
+		{
+			"name": "M05_png",
+			"type": "image",
+			"url": "assets/M05.png"
+		},
+		{
+			"name": "M06_png",
+			"type": "image",
+			"url": "assets/M06.png"
+		},
+		{
+			"name": "ThirdBackground_jpg",
+			"type": "image",
+			"url": "assets/ThirdBackground.jpg"
+		},
+		{
+			"name": "music_png",
+			"type": "image",
+			"url": "assets/music.png"
+		},
+		{
+			"name": "jump_png",
+			"type": "image",
+			"url": "assets/jump.png"
+		}
+	]
+}
